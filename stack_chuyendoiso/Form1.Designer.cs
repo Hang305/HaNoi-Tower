@@ -311,9 +311,9 @@
             // picDia1
             // 
             this.picDia1.Image = global::stack_chuyendoiso.Properties.Resources.coc12;
-            this.picDia1.Location = new System.Drawing.Point(45, 531);
+            this.picDia1.Location = new System.Drawing.Point(47, 531);
             this.picDia1.Name = "picDia1";
-            this.picDia1.Size = new System.Drawing.Size(439, 48);
+            this.picDia1.Size = new System.Drawing.Size(430, 48);
             this.picDia1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.picDia1.TabIndex = 8;
             this.picDia1.TabStop = false;
