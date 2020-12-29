@@ -1,0 +1,10 @@
+E:\LTHDT\stack\stack_chuyendoiso\stack_chuyendoiso\bin\Debug\stack_chuyendoiso.exe.config
+E:\LTHDT\stack\stack_chuyendoiso\stack_chuyendoiso\bin\Debug\stack_chuyendoiso.exe
+E:\LTHDT\stack\stack_chuyendoiso\stack_chuyendoiso\bin\Debug\stack_chuyendoiso.pdb
+E:\LTHDT\stack\stack_chuyendoiso\stack_chuyendoiso\obj\Debug\stack_chuyendoiso.csprojAssemblyReference.cache
+E:\LTHDT\stack\stack_chuyendoiso\stack_chuyendoiso\obj\Debug\stack_chuyendoiso.Form1.resources
+E:\LTHDT\stack\stack_chuyendoiso\stack_chuyendoiso\obj\Debug\stack_chuyendoiso.Properties.Resources.resources
+E:\LTHDT\stack\stack_chuyendoiso\stack_chuyendoiso\obj\Debug\stack_chuyendoiso.csproj.GenerateResource.cache
+E:\LTHDT\stack\stack_chuyendoiso\stack_chuyendoiso\obj\Debug\stack_chuyendoiso.csproj.CoreCompileInputs.cache
+E:\LTHDT\stack\stack_chuyendoiso\stack_chuyendoiso\obj\Debug\stack_chuyendoiso.exe
+E:\LTHDT\stack\stack_chuyendoiso\stack_chuyendoiso\obj\Debug\stack_chuyendoiso.pdb
